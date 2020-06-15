@@ -20,7 +20,7 @@ public class SomeServiceImpl implements SomeService {
 			e.printStackTrace();
 		}
 		
-		return "Retorno do metodo: " + name;
+		return "Hello " + name;
 	}
 
 }
